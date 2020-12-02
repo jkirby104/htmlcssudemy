@@ -1,0 +1,4 @@
+/*adds a border to image*/
+img{
+    border: 10px groove orange;
+}

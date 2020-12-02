@@ -1,0 +1,25 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    box-;
+
+}
+
+img{
+    border: 10px groove orange;
+}
+
+.piano1{
+    border: 10px groove red;
+}
+
+.piano3{
+    border: 10px groove blue;
+
+}
+
+.piano4{
+    border: 10px groove purple;
+}
